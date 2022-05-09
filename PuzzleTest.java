@@ -8,8 +8,7 @@ public class PuzzleTest {
 		// System.out.println(randomRolls);
 		
     	// System.out.println(generator.getRandomLetter());
-		System.out.println(generator.generatePassword());
-		// System.out.println(generator.getNewPasswordSet());
-		// System.out.println(generator.shuffleArray());
+		// System.out.println(generator.generatePassword());
+		// System.out.println(generator.getNewPasswordSet(20));
 	}
 }
